@@ -32,3 +32,4 @@ pipeline_config: pipelines.yaml
 
 pipeline_handlers:
     logger: winchester.pipeline_handler:LoggingHandler
+    usage: winchester.pipeline_handler:UsageHandler

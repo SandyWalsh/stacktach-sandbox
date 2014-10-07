@@ -1,5 +1,5 @@
 ---
 test_pipeline:
-    - logger
+    - usage
 test_expire_pipeline:
-    - logger
+    - usage
